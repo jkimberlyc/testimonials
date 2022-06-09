@@ -1,0 +1,35 @@
+:root{
+    --dblue: #7289da;
+    --dblack1: #424549;
+    --dblack2: #36393e;
+    --dblack3: #282b30;
+    --dblack4: #1e2124;
+}
+
+/* body {
+    background-color: var(--dblack2);
+} */
+
+.text-black4 {
+    color: var(--dblack4);
+}
+
+.text-black3 {
+    color: var(--dblack3);
+}
+
+.text-black2 {
+    color: var(--dblack2);
+}
+
+.text-black1 {
+    color: var(--dblack1);
+}
+
+.bg-dblue {
+    background-color: var(--dblue);
+}
+
+.text-justify {
+    text-align: justify;
+}
